@@ -23,11 +23,6 @@ This Python script checks the weather for a specified location using the OpenWea
    pip install requests
    ```
 
-## Configuration
-
-1. Replace `YOUR_OPENWEATHERMAP_API_KEY` with your actual OpenWeatherMap API key.
-2. Replace `YOUR_OPTUS_API_KEY` with your actual Optus API key.
-
 ## How to Use
 
 1. Run the script:
