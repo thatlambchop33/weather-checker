@@ -12,7 +12,7 @@ def send_sms(message, phone_number, optus_api_key):
     }
     #TESTING - My number to test SMS
     #data = {
-    #    "to": "+61466108234",
+    #    "to": "+6438422298,
     #    "message": message
     #}
     response = requests.post(sms_url, json=data, headers=headers)
